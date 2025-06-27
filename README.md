@@ -62,16 +62,13 @@ Thank you for visiting my profile! 🚀
   font-family: 'Arial Black', sans-serif;
 ">
   <a href="https://github.com/Natzujj/SQL-GUIDE" style="margin: 10px; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=SQL-GUIDE&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&icon_color=000000&border_radius=0" 
-         style="border: 3px solid #000; box-shadow: 5px 5px 0 #000; width: 320px; height: 130px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=SQL-GUIDE&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&icon_color=000000&border_radius=0" height="130" style="border: 3px solid #000; box-shadow: 5px 5px 0 #000;">
   </a>
-  <a href="https://github.com/Natzujj/SimpleCrudCSharp" style="margin: 10px; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=SimpleCrudCSharp&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&icon_color=000000&border_radius=0" 
-         style="border: 3px solid #000; box-shadow: 5px 5px 0 #000; width: 320px; height: 130px;">
+  <a href="https://github.com/Natzujj/subtitles" style="margin: 10px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=subtitles&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&icon_color=000000&border_radius=0" height="130" style="border: 3px solid #000; box-shadow: 5px 5px 0 #000;">
   </a>
-  <a href="https://github.com/Natzujj/curso-laravel" style="margin: 10px; display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=curso-laravel&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&icon_color=000000&border_radius=0" 
-         style="border: 3px solid #000; box-shadow: 5px 5px 0 #000; width: 320px; height: 130px;">
+  <a href="https://github.com/Natzujj/campo-minado-swing" style="margin: 10px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=campo-minado-swing&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&icon_color=000000&border_radius=0" height="130" style="border: 3px solid #000; box-shadow: 5px 5px 0 #000;">
   </a>
 </div>
 
