@@ -53,10 +53,23 @@ Thank you for visiting my profile! 🚀
 <h2></h2>
 
 ## **Recent projects:**
-<div align="center">
-  <a href="https://github.com/Natzujj/SQL-GUIDE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=SQL-GUIDE&title_color=bf2640&text_color=F2F2F2&bg_color=4D4577&border_color=121111&icon_color=bf2640&border_radius=15" height="120"/></a>
-  <a href="https://github.com/Natzujj/SimpleCrudCSharp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=SimpleCrudCSharp&title_color=bf2640&text_color=F2F2F2&bg_color=4D4577&border_color=121111&icon_color=bf2640&border_radius=15" height="120"/></a>
-  <a href="https://github.com/Natzujj/curso-laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=curso-laravel&title_color=bf2640&text_color=F2F2F2&bg_color=4D4577&border_color=121111&icon_color=bf2640&border_radius=15" height="120"/> </a>
+<div align="center" style="
+  background: #ffffff;
+  padding: 20px;
+  border: 5px solid #000;
+  box-shadow: 8px 8px 0 #000;
+  display: inline-block;
+  font-family: 'Arial Black', sans-serif;
+">
+  <a href="https://github.com/Natzujj/SQL-GUIDE" style="margin: 10px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=SQL-GUIDE&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&icon_color=000000&border_radius=0" height="130" style="border: 3px solid #000; box-shadow: 5px 5px 0 #000;">
+  </a>
+  <a href="https://github.com/Natzujj/SimpleCrudCSharp" style="margin: 10px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=SimpleCrudCSharp&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&icon_color=000000&border_radius=0" height="130" style="border: 3px solid #000; box-shadow: 5px 5px 0 #000;">
+  </a>
+  <a href="https://github.com/Natzujj/curso-laravel" style="margin: 10px; display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=natzujj&repo=curso-laravel&title_color=000000&text_color=000000&bg_color=ffffff&border_color=000000&icon_color=000000&border_radius=0" height="130" style="border: 3px solid #000; box-shadow: 5px 5px 0 #000;">
+  </a>
 </div>
 
 ## :fire: My Stats: 
