@@ -2,7 +2,6 @@
   <h2>Hey there! 👋</h2>
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="30%" /> 
 </div>
-
 <div id="about" align="center">
   <h3>I'm Gabriel. Nice to meet you! 👨‍💻</h3>
   <p>I’m a Brazilian developer who just can't seem to stay away from the keyboard.<br> 
