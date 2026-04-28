@@ -1,23 +1,21 @@
 <div id="header" align="center">
-  <h2>HEY THERE!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+  <h2>Hey there! 👋</h2>
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="30%" /> 
 </div>
-<div id="badges" align = "center">
-  <p> Contact: </p>
-   <a href = "https://www.linkedin.com/in/gabrielbatistasbg/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
- </div>
 
-## :man_technologist: About Me :
-👋 Hello there! I'm Gabriel, a junior developer from Brazil 🌎. My coding journey started when I was a child, developing my first projects using RPG Maker. After a long hiatus, I rekindled my passion for coding in 2022. <img src="https://pics.livejournal.com/rampanthers/pic/002f8t9h" width="30">
-
-💼 Professionally, I've contributed to the development of a bot based on state machines, leveraging my practical experience and problem-solving capabilities. In the realm of web development, I've worked extensively with Java and PHP, utilizing frameworks like Hibernate, Spring, and Laravel. On the front-end, my expertise extends to Vue, JavaScript, Angular, Bootstrap, and more.
-
-🌐 While my roots are in Brazil, my coding skills know no boundaries. I am a dedicated and curious individual, always eager to take on new challenges and learn from them.
-
-Thank you for visiting my profile! 🚀
+<div id="about" align="center">
+  <h3>I'm Gabriel. Nice to meet you! 👨‍💻</h3>
+  <p>I’m a Brazilian developer who just can't seem to stay away from the keyboard.<br> 
+  My tech journey started back in the day, building worlds and adventures in <b>RPG Maker</b>. 
+  After a little break, I rediscovered my passion for coding in 2022, and I haven't looked back since.</p>
+</div>
+<hr>
+<div align="center">
+  <p>Always down for a chat or a new collaboration!</p>
+  <a href="https://www.linkedin.com/in/gabrielbatistasbg/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ## :hammer_and_wrench: Languages and Tools:
 <div align="left">
