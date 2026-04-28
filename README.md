@@ -8,6 +8,10 @@
   <p>I’m a Brazilian developer who just can't seem to stay away from the keyboard.<br> 
   My tech journey started back in the day, building worlds and adventures in <b>RPG Maker</b>. 
   After a little break, I rediscovered my passion for coding in 2022, and I haven't looked back since.</p>
+  <p>
+    When I'm not debugging, you'll probably find me <b>platinating</b> games on Steam or 
+    tweaking nodes in <b>DaVinci Resolve</b>.
+  </p>
 </div>
 <hr>
 <div align="center">
